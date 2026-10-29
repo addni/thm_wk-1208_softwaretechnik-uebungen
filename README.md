@@ -13,6 +13,8 @@ sagt, was dort einzureichen ist.
 | Verzeichnis | Übung |
 |---|---|
 | [`ue01/`](ue01/) | Erste Schritte mit Git und GitHub |
+| [`ue02/`](ue02/) | Das Projektmodell am Fall |
+| [`ue03/`](ue03/) | Anforderungen an den Terminplaner |
 
 ## So reichen Sie etwas ein
 
